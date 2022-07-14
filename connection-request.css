@@ -1,0 +1,47 @@
+.connectionrequests{
+    background-color: palevioletred;
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    width: 200px;
+    height: 20px;
+    font-size: 15px;
+    align-items: center;
+    margin-bottom: 20px;
+    margin: 0%;
+}
+.cr{
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: 0%;
+}
+.todd{
+    width: 25px;
+    border-radius: 20px;
+}
+span{
+    background-color: black;
+    border-radius: 10px;
+}
+.rightbox{
+    display: flex;
+    align-items: center;   
+    flex-direction: column-reverse;
+}
+.check, .close{
+    width: 20px;
+    align-items: flex-end;
+}.names{
+    border: 2px solid palevioletred;
+    font-family:'Courier New', Courier, monospace;
+}
+.two{
+    margin-left: 5px;
+}
+.check{
+    margin-left: 50px
+}
+.cr2{
+    display: flex;
+    align-items: center;
+}

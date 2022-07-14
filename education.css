@@ -1,0 +1,13 @@
+.educ{
+    border: 2px solid palevioletred;
+    width: 421px;
+    font-family:'Courier New', Courier, monospace; 
+    margin-top: 20px;
+}
+.education{
+    background-color: palevioletred;
+    margin: 0%;
+    font-family:'Courier New', Courier, monospace;
+    color: aliceblue;
+    height: 25px;
+}
